@@ -1,0 +1,1 @@
+{"id":"8ac27dab-543b-4731-aeb3-45cca2946554","space":48519,"runtime":"python3.9","name":"API_DETA","path":"nfn93g","project":"e0nd0nf9","account":"144798365827","region":"sa-east-1","deps":["fastapi","deta","python-multipart","pandas"],"envs":null,"public":true,"log_level":"debug","cron":""}
