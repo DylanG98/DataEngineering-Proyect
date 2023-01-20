@@ -31,6 +31,10 @@ El trabajo realizado consistió en hacer un proceso de ETL, utilizando una fuent
  + Además también se han subido los archivos al servicio de almacenamiento Drive de Deta.
  + El código utilizado para vincular esta aplicación con el framework FastAPI se puede encontrar en la carpeta *API DETA*, con el nombre de *main.py*
  
+ ### URL API
+ 
+ https://nfn93g.deta.dev/
+ 
  ## Tecnologías utilizadas
  
  ###  **Python** 
