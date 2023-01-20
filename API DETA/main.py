@@ -59,6 +59,12 @@ class DriveStreamingBody:
 #######################################################################################
 #######################################################################################
 
+
+@app.get("/")
+def read_root():
+    return {"Bienvenidos a mi API": "Dylan Guzman"}
+
+
 ##### These two functions were used for loading CSV files, 
 ##### first their rendering and then the download.  (Deta Docs)
 
