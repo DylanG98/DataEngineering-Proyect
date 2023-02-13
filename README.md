@@ -1,4 +1,4 @@
-<h1 align="center"> Data Engeneering Project </h1>
+<h1 align="center"> Data Engineering Project </h1>
 
 **Dylan Guzman**
 
